@@ -31,3 +31,25 @@ Every operation (creation, update, or deletion of files) is logged with a timest
 
 Configurable Timer:
 Synchronization runs periodically at a user-defined interval, controlled by a System.Timers.Timer. The program remains active until the user presses q to quit.
+
+---
+
+## Tecnologias
+
+- Linguagem: C#
+- Framework: .NET 7
+- IDE: Visual Studio Code
+
+---
+
+## Como usar
+
+Terminal:
+1. Clone the repository.
+   "git clone https://github.com/cesarroncon/.git"
+4. Entre na pasta "".
+    "cd .\CrossJoin_Challenge01\\"
+5. Run
+   "dotnet run"
+
+---
