@@ -46,10 +46,8 @@ Synchronization runs periodically at a user-defined interval, controlled by a Sy
 
 Terminal:
 1. Clone the repository.
-   "git clone https://github.com/cesarroncon/.git"
-4. Entre na pasta "".
-    "cd .\CrossJoin_Challenge01\\"
-5. Run
+   "git clone https://github.com/cesarroncon/Task_Test01.git"
+2. Run
    "dotnet run"
 
 ---
