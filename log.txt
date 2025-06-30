@@ -1,0 +1,2 @@
+2025-06-30 15:51:43 | Deleted File: Replica\f1\F1_test1.txt and Folder: Source\f1
+2025-06-30 15:51:49 | Deleted file: Replica\test1.txt
